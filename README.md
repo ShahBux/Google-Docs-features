@@ -8,14 +8,10 @@
 
 Ajaia Docs delivers a production-grade collaborative document editing solution implementing core Google Workspace functionality with enterprise-grade security controls, multi-format file ingestion, and edge-optimized persistence. Built on TanStack Start architecture with Cloudflare Workers deployment for sub-100ms global latency.
 
-**Production Environment:** `https://ajaia-docs.pages.dev`
+**Production Environment:** `https://tanstack-start-app.docs-shahbux.workers.dev/`
 
 **Credentail**
-
-| Role         | Email Address     | Access Credential |
-| ------------ | ----------------- | ----------------- |
-| System Owner | alice@example.com | password123       |
-| Collaborator | bob@example.com   | password123       |
+You Can Signup two users and Manage permission between them
 
 ---
 
